@@ -1,5 +1,5 @@
 # BTC-Volatility-Forecasting-using-GARCH-1-1-
-## Description
+## This project focuses on modelling and forcasting bitcoin volatility using GARCH(1,1)
 
 ## 🧰 Tech Stack
   - Python 3.13
